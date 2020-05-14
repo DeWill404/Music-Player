@@ -1,0 +1,7 @@
+- [x] Add, delete and list song from album
+- [x] Add, remove, display, and rename Album
+- [x] Add, remove, display, and rename Playlist
+- [x] Add, remove and list song from playlist
+- [x] Song Deleted from an album , removed from playlist too 
+- [x] Raise error on inappropriate input at any point
+- [ ] Play, pause song from album or playlist
